@@ -74,19 +74,6 @@ public class Rectangle extends Figure{
 
 	
 
-	/**
-
-	 * Dessine le dessin du rectangle
-
-	 * @param g contexte graphique
-
-	 */
-
-	public void paint (Graphics g){
-
-		
-
-	}
 
 	public static void main (String args[]){
 
