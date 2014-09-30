@@ -234,7 +234,7 @@ public abstract class Figure {
 
 	public String toString(){
 
-		String s = "ToString:\nTailleX:"+getTailleX()+"\nTailleY:"+getTailleY()+"\n";
+		String s = "Figure:\nTaille en X:"+getTailleX()+"\nTaille en Y:"+getTailleY()+"\n";
 
 		
 
